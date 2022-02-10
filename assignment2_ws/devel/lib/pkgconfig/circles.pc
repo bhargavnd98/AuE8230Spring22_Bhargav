@@ -1,0 +1,8 @@
+prefix=/home/bhargavnd/git_ws/AuE8230Spring22_Bhargav/assignment2_ws/devel
+
+Name: circles
+Description: Description of circles
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

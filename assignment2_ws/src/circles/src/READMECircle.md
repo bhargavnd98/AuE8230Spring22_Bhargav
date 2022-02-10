@@ -1,0 +1,2 @@
+[alt text](/home/bhargavnd/git_ws/AuE8230Spring22_Bhargav/assignment2_ws/src/circles/src/TurtleCircle.png
+This code makes the turtle move in circles of a given specific radius, which is to be given as an input to the function while calling it. A proper circle is traced by giving a certain amount of linear velocity in the x direction which is basically the radius and a velocity of 1 units in the z direction so as to make the circle move in a complete circle.
